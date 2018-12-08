@@ -5,5 +5,5 @@ Essex BCPL is the Esssex University DEC PDP-10 TOPS-10 implementation of BCPL. T
 source.
 
 COMPIL.MAC is a revised source of the DEC issued COMPILE command for DEC PDP-10 TOPS-10 Monitor 7.04 so that it recognises the BCPL file
-type for compilation, linking and executing. This should be compiled using COMPIL COMPIL.MAC/COMPILE and put in the SYS: library
+type for compilation, linking and executing. This should be compiled using EXECUTE COMPIL.MAC/SSAVE and put the EXE in the SYS: library
 if you intend to regularly use BCPL.
