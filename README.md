@@ -8,4 +8,6 @@ COMPIL.MAC is a revised source of the DEC issued COMPILE command for DEC PDP-10 
 type for compilation, linking and executing. This should be compiled using EXECUTE COMPIL.MAC/SSAVE and put the EXE in the SYS: library
 if you intend to regularly use BCPL.
 
+A SIMH TOPS-10 tape containing the BCPL COMPIL.EXE is in bcplcompil.tap. Restore to SYS: [1,4]
+
 More detailed instructions for installation at https://www.quentin.org.uk/2018/02/25/installing-bcpl/
